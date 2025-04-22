@@ -44,7 +44,7 @@ O site apresenta:
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seu-usuario/site-psicologa-debora.git
+   git clone https://github.com/LuizFMS85/Landingpade-Psicologa-Debora.git
    ```
 
 2. Abra o arquivo `index.html` em qualquer navegador moderno.
